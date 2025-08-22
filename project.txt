@@ -1,5 +1,5 @@
 This is the project file.
-It will grow with new features.
+It will grow with LEFT-side features.
 Let's collaborate!
 Left branch is adding its own feature.
 More improvements coming from the left side.
