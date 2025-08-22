@@ -1,3 +1,6 @@
 This is the project file.
 It will grow with new features.
 Let's collaborate!
+Left branch is adding its own feature.
+More improvements coming from the left side.
+Team Left rocks!
