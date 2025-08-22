@@ -1,9 +1,3 @@
 This is the project file.
-It will grow with LEFT-side features.
+It will grow with LEFT-side features and RIGHT-side innovations.
 Let's collaborate!
-Left branch is adding its own feature.
-More improvements coming from the left side.
-Team Left rocks!
-Right branch brings another perspective.
-This feature is unique to the right side.
-Innovation comes from the right branch too!
